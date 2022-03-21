@@ -27,9 +27,13 @@ code {
 }
 
 .container {
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.container-content {
+  margin: 0 50px 0 50px;
 }
